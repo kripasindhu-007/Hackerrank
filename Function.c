@@ -8,6 +8,8 @@ int max_of_four(int a,int b,int c,int d){
    return c;}
    if(d>a&&d>b&&d>c){
    return d;}
+   else 
+   return 0;
 };
 int main() {
     int a, b, c, d;
