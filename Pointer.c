@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include<math.h>
+#include<stdlib.h>
 
 void update(int *a,int *b) {
     int temp=*a;

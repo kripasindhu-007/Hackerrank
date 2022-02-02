@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include<stdlib.h>
 int max_of_four(int a,int b,int c,int d){
    if(a>b&&a>c&&a>d){
    return a;}
